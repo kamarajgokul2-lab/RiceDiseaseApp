@@ -1,6 +1,6 @@
 streamlit==1.57.0
-tensorflow-cpu==2.20.0
-numpy==2.0.2
-Pillow==11.3.0
-h5py
-protobuf
+tensorflow==2.15.0
+numpy==1.26.4
+Pillow==10.2.0
+h5py==3.10.0
+protobuf==4.25.3
